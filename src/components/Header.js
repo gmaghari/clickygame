@@ -6,7 +6,9 @@ const Header = props => (
         <br/>
         <h5 className="subtitle">How to play:</h5>
         <br/>
-        <h5 className="subtitle">Click on an image to get started! After each click, the images will shuffle. <br/> The goal is to select each image once!</h5>
+        <h5 className="subtitle">Click on an image to start the game! Images will change after every click.</h5>
+        <br/>
+        <h5>Try to click each image only once and achieve the highest score</h5>
     </div>
 )
 
