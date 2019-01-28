@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Ryu",
+        "image": "https://media.giphy.com/media/kdHa4JvihB2gM/giphy.gif"
+    },
+    {
+        "id": 2,
+        "name": "Ken",
+        "image": "http://vignette4.wikia.nocookie.net/streetfighter/images/4/44/Ken-hdstance.gif"
+    },
+    {
+        "id": 3,
+        "name": "Guile",
+        "image": "https://66.media.tumblr.com/tumblr_lq8g3548bC1qd0wh3o1_400.gif"
+    },
+    {
+        "id": 4,
+        "name": "Bison",
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/4/45/Mbison-hdstance.gif"
+    },
+    {
+        "id": 5,
+        "name": "Chun-Li",
+        "image": "http://i.imgur.com/XrvHrDZ.gif"
+    },
+    {
+        "id": 6,
+        "name": "Sagat",
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/8/8c/Sagat-hdstance.gif"
+    },
+    {
+        "id": 7,
+        "name": "E.Honda",
+        "image": "https://media1.tenor.com/images/a0e6282c7bcf48da636bfe8622c66735/tenor.gif"
+    },
+    {
+        "id": 8,
+        "name": "Zangief",
+        "image": "https://media1.giphy.com/media/nlbIvY9K0jfAA/source.gif"
+    },
+    {
+        "id": 9,
+        "name": "Blanka",
+        "image": "https://i.pinimg.com/originals/4d/b3/cc/4db3ccf9b8111d2db2315213e3665bed.gif"
+    }
+]
